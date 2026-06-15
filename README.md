@@ -1,1 +1,1 @@
-# portifolio_modelo
+Projeto de portifólio de apresentação do estudante Guilherme Martins Muniz e seus projetos desenvolvidos durante o primeiro semestre de Ciência da Computação na matéria de Experiência Criativa: Explorando Computação e Inteligência Artificial.
